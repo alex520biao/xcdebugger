@@ -18,10 +18,10 @@ xcdebugger
 2. 输入github账户及密码，可以看到github网站的远程客户端上的所有工程
 
 3. 在alex520biao/xcdebugger工程上，点击Clone to Computer，
-最终存放位置为: Macintosh HD/Users/xxxx/Library/Developer/Xcode/UserData/xcdebugger
-Macintosh HD(当前盘符)，xxxx(当前用户);   
-路径可以简写为: ~/Library/Developer/Xcode/UserData/xcdebugger   
-~表示当前系统用户根目录;      
+最终存放位置为: `Macintosh HD/Users/xxxx/Library/Developer/Xcode/UserData/xcdebugger`   
+`Macintosh HD`(当前盘符);   
+`xxxx`(当前用户);   
+路径可以简写为: `~/Library/Developer/Xcode/UserData/xcdebugger`,`~`表示当前系统用户根目录;      
 如果用户的资源库文件已经被隐藏,那么请参考: 显示/隐藏Mac用户的资源库目录.rtf
 
 4. 这样xcdebugger目录中的内容就和Github网站上的对应项目联系起来了。   
